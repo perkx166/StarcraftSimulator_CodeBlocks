@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="AstroCPP" />
+		<Option pch_mode="0" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Klasy\;Funkcje\;Struktury\;Headlines\;Misje\;Funkcje kolizji\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/AstroCPP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-g" />
+					<Add option="-D__WXDEBUG__" />
+					<Add directory="$(#wx)/lib/gcc_dll/mswud" />
+					<Add directory="C:/inf3/pgsql/include" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="$(#wx)/lib/gcc_dll/mswud" />
+				</ResourceCompiler>
+				<Linker>
+					<Add library="libwxmsw30ud_core.a" />
+					<Add library="libwxbase30ud.a" />
+					<Add library="libwxpngd.a" />
+					<Add library="libwxzlibd.a" />
+					<Add library="C:\inf3\pgsql\lib\libpq.lib" />
+					<Add directory="$(#wx)/lib/gcc_dll" />
+					<Add directory="C:/inf3/pgsql/lib" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/AstroCPP" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Option projectLinkerOptionsRelation="2" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="$(#wx)/lib/gcc_dll/mswu" />
+				</Compiler>
+				<ResourceCompiler>
+					<Add directory="$(#wx)/lib/gcc_dll/mswu" />
+				</ResourceCompiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="libwxmsw30u_core.a" />
+					<Add library="libwxbase30u.a" />
+					<Add library="libwxpng.a" />
+					<Add library="libwxzlib.a" />
+					<Add directory="$(#wx)/lib/gcc_dll" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-pipe" />
+			<Add option="-mthreads" />
+			<Add option="-D__GNUWIN32__" />
+			<Add option="-D__WXMSW__" />
+			<Add option="-DWXUSINGDLL" />
+			<Add option="-DwxUSE_UNICODE" />
+			<Add option="-Winvalid-pch" />
+			<Add option="-include wx_pch.h" />
+			<Add option="-DWX_PRECOMP" />
+			<Add option="-Wall" />
+			<Add directory="$(#wx)/include" />
+		</Compiler>
+		<ResourceCompiler>
+			<Add directory="$(#wx)/include" />
+		</ResourceCompiler>
+		<Linker>
+			<Add option="-mthreads" />
+		</Linker>
+		<Unit filename="AstroCPPApp.cpp" />
+		<Unit filename="AstroCPPApp.h" />
+		<Unit filename="AstroCPPMain.cpp" />
+		<Unit filename="AstroCPPMain.h" />
+		<Unit filename="bos1.h">
+			<Option virtualFolder="Klasy/" />
+		</Unit>
+		<Unit filename="bos2.h">
+			<Option virtualFolder="Klasy/" />
+		</Unit>
+		<Unit filename="elementy_statyczne.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="headline.h">
+			<Option virtualFolder="Headlines/" />
+		</Unit>
+		<Unit filename="help.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="ingr.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="klawisze_podstawowe.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="kolizje_mojego_strzalu.cpp">
+			<Option virtualFolder="Funkcje kolizji/" />
+		</Unit>
+		<Unit filename="kolizje_przeciwnych_strzalow.cpp">
+			<Option virtualFolder="Funkcje kolizji/" />
+		</Unit>
+		<Unit filename="misja_1.cpp">
+			<Option virtualFolder="Misje/" />
+		</Unit>
+		<Unit filename="misja_1_bos.cpp">
+			<Option virtualFolder="Misje/" />
+		</Unit>
+		<Unit filename="misja_2.cpp">
+			<Option virtualFolder="Misje/" />
+		</Unit>
+		<Unit filename="misja_2_bos.cpp">
+			<Option virtualFolder="Misje/" />
+		</Unit>
+		<Unit filename="mojakwerenda.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="mojstatek.h">
+			<Option virtualFolder="Klasy/" />
+		</Unit>
+		<Unit filename="odczyt.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="odczytBD.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="paski_zycia.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="ruch_bosow.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="statekprzeciwnika.h">
+			<Option virtualFolder="Klasy/" />
+		</Unit>
+		<Unit filename="statekprzeciwnika2.h">
+			<Option virtualFolder="Klasy/" />
+		</Unit>
+		<Unit filename="str.h">
+			<Option virtualFolder="Struktury/" />
+		</Unit>
+		<Unit filename="strzal_int.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="wx_pch.h">
+			<Option compile="1" />
+			<Option weight="0" />
+		</Unit>
+		<Unit filename="wxsmith/AstroCPPframe.wxs" />
+		<Unit filename="zapis.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="zapis_odczyt_sort_statystyk.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Unit filename="zapiszBD.cpp">
+			<Option virtualFolder="Funkcje/" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+			<wxsmith version="1">
+				<gui name="wxWidgets" src="AstroCPPApp.cpp" main="AstroCPPFrame" init_handlers="necessary" language="CPP" />
+				<resources>
+					<wxFrame wxs="wxsmith/AstroCPPframe.wxs" src="AstroCPPMain.cpp" hdr="AstroCPPMain.h" fwddecl="0" i18n="1" name="AstroCPPFrame" language="CPP" />
+				</resources>
+			</wxsmith>
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

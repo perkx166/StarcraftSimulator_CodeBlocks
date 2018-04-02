@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="klawisze_podstawowe.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="189" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="odczyt.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1615" topLine="330" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+		</Folding>
+	</File>
+	<File name="str.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="133" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="kolizje_mojego_strzalu.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="968" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="44" />
+			<Collapse line="83" />
+			<Collapse line="118" />
+		</Folding>
+	</File>
+	<File name="paski_zycia.cpp" open="0" top="0" tabpos="12" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="418" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="kolizje_przeciwnych_strzalow.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2871" topLine="16" />
+		</Cursor>
+		<Folding>
+			<Collapse line="2" />
+			<Collapse line="16" />
+			<Collapse line="30" />
+		</Folding>
+	</File>
+	<File name="mojstatek.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4727" topLine="198" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="22" />
+		</Folding>
+	</File>
+	<File name="misja_1.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2366" topLine="91" />
+		</Cursor>
+	</File>
+	<File name="misja_1_bos.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1320" topLine="35" />
+		</Cursor>
+	</File>
+	<File name="ingr.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="140" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="mojakwerenda.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="229" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="misja_2_bos.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1321" topLine="33" />
+		</Cursor>
+		<Folding>
+			<Collapse line="17" />
+			<Collapse line="23" />
+		</Folding>
+	</File>
+	<File name="AstroCPPApp.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="376" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="statekprzeciwnika.h" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2041" topLine="82" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="18" />
+			<Collapse line="28" />
+			<Collapse line="39" />
+		</Folding>
+	</File>
+	<File name="AstroCPPMain.h" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="689" topLine="33" />
+		</Cursor>
+	</File>
+	<File name="strzal_int.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="305" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="bos2.h" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2499" topLine="84" />
+		</Cursor>
+		<Folding>
+			<Collapse line="28" />
+			<Collapse line="39" />
+			<Collapse line="46" />
+		</Folding>
+	</File>
+	<File name="help.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="449" topLine="10" />
+		</Cursor>
+	</File>
+	<File name="headline.h" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2104" topLine="61" />
+		</Cursor>
+	</File>
+	<File name="misja_2.cpp" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1902" topLine="59" />
+		</Cursor>
+		<Folding>
+			<Collapse line="16" />
+		</Folding>
+	</File>
+	<File name="AstroCPPApp.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="484" topLine="14" />
+		</Cursor>
+	</File>
+	<File name="statekprzeciwnika2.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="2056" topLine="80" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="17" />
+			<Collapse line="27" />
+			<Collapse line="38" />
+		</Folding>
+	</File>
+	<File name="elementy_statyczne.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1726" topLine="54" />
+		</Cursor>
+	</File>
+	<File name="bos1.h" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1830" topLine="79" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+			<Collapse line="18" />
+			<Collapse line="28" />
+			<Collapse line="39" />
+		</Folding>
+	</File>
+	<File name="AstroCPPMain.cpp" open="1" top="1" tabpos="5" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="455" topLine="160" />
+		</Cursor>
+	</File>
+	<File name="zapis.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="258" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="36" />
+			<Collapse line="61" />
+			<Collapse line="83" />
+			<Collapse line="108" />
+		</Folding>
+	</File>
+	<File name="zapis_odczyt_sort_statystyk.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1262" topLine="30" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="14" />
+		</Folding>
+	</File>
+	<File name="ruch_bosow.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="206" topLine="11" />
+		</Cursor>
+	</File>
+	<File name="zapiszBD.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="15009" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="24" />
+			<Collapse line="133" />
+			<Collapse line="255" />
+			<Collapse line="377" />
+			<Collapse line="480" />
+		</Folding>
+	</File>
+	<File name="odczytBD.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="104" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="5" />
+			<Collapse line="64" />
+			<Collapse line="78" />
+			<Collapse line="182" />
+			<Collapse line="285" />
+			<Collapse line="340" />
+		</Folding>
+	</File>
+</CodeBlocks_layout_file>
